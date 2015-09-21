@@ -1,0 +1,7 @@
+[package]
+name = "notmuch"
+version = "0.1.0"
+authors = ["Klemens Schölhorn <klemens@schoelhorn.eu>"]
+
+[dependencies]
+libc = "0.1"
